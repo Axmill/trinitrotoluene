@@ -1,0 +1,5 @@
+[package]
+
+name = "factorial_functions"
+version = "0.0.1"
+authors = ["Axmill <anchorfall551@gmail.com>"]
